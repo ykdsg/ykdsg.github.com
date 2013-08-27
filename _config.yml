@@ -8,7 +8,7 @@ safe:  false
 title: 闲敲棋子
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: http://ykbaby.tk
+#url: http://ykbaby.tk
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -38,11 +38,11 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: http://weibo.com/ykdsg
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/ykdsg
   - class: icon-twitter
     url: http://twitter.com/piznlin
   - class: icon-google-plus
