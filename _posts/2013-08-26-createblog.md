@@ -4,7 +4,7 @@ title:  如何建立一个免费网站
 date:   2013-08-26 17:55:11
 ---
 
-##通过github page 免费搭建个人网站
+通过github page 免费搭建个人网站
 
 ###从哪得到免费的主机服务
 github page可以提供主机服务支持jekyll，这个网上资料很多，使用jekyll从无到有搭建一个网站很容易，难的是怎么熟悉jekyll的语法。这方面中文资料比较少，不过官网的英文也还算简单。本网站使用的模板是展新同学开发的[kunka](http://www.zhanxin.info/jekyll/2013-08-11-jekyll-theme-kunka.html)  
