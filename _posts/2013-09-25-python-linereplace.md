@@ -17,7 +17,7 @@ LoggerFactory.getLogger(XXXXX.class)
 {% endhighlight %}
 这里的XXXXX需要替换为当前的类名。如果这样的java文件不多还好，可以一个个人肉替换。一旦这样的文件很多，特别是迁移过来大量的文件时，你就会发现简直是一场灾难。其实我们发现上面的工作很多是机械单调的。ide中的替换功能不能做到的是把XXXXX替换成当前的类名。而python很容易处理文本，利用正则表达式可以比较方便的拿到类名，然后替换掉xxxxx就可以了。
 
-{% highlight java %}
+{% highlight python %}
 import fileinput  
 import os  
 import re  
